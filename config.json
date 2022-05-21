@@ -1,0 +1,5 @@
+{
+    "prefix": "b>",
+    "version": 1,
+    "token": "Replace this with your Discord bot's token. For better security use environment variable if possible."
+}

@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "enhanced-ms": "^1.0.2",
+    "request": "^2.88.2"
+  },
+  "name": "bakabot",
+  "version": "1.0.0",
+  "description": "Discord bot working with Bakaláři API",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "foxy",
+    "bakalari",
+    "bakaláři",
+    "api"
+  ],
+  "author": "Foxy#8956",
+  "license": "ISC"
+}
