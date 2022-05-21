@@ -1,0 +1,3 @@
+[00:00:00] [EpicChannelID@EpicServerID] Foxy#8956: b>register
+[00:00:00] New registration: [Foxy#8956@https://bakalari.urschool.cz/] Response: {"ApiVersion":"n.nn.n","ApplicationVersion":"n.nn.nnn.n","BaseUrl":"api/3"}
+[00:00:00] [EpicChannelID@EpicServerID] Foxy#8956: b>rozvrh
