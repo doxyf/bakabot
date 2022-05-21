@@ -3,6 +3,10 @@ There's currently a security issue with database; it's saved in JSON and the tok
 
 I highly recommend to use this bot only if you trust the person/people who run it.
 
+Also incorrect responses from the API might crash the bot.
+
+I really must rework the database and some parts of the code.
+
 # Setup
 Clone or download this repository to your folder.
 
