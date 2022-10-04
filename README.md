@@ -1,3 +1,6 @@
+Yo wtf this sucks so much I'll rewrite it when I get some time but it really needs to be rewritten from the scratch.\
+So I'm archiving this and yall be ready for epic rewrite drop (not so soon probably)
+
 # IMPORTANT
 There's currently a security issue with database; it's saved in JSON and the tokens are plaintext.
 
